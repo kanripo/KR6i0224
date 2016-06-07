@@ -1,18 +1,17 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:13:21.633288
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:58
 #+TITLE: 商主天子所問經
 #+PROPERTY: CBETA_ID T15n0591
 #+PROPERTY: ID KR6i0224
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 15, No. 591
 #+PROPERTY: VOL 15
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0224_T_001-0119a> 
 #+PROPERTY: JUAN 1
 ¶
-No.591¶
-
- 《商主天子所問經》¶
+No. 591¶
+《商主天子所問經》¶
 ¶
 隋北印度三藏闍那崛多譯¶
 
@@ -781,9 +780,9 @@ No.591¶
 　非不因尊無比身，
 　善行導師示現光，¶
 　善哉願演佛音聲，
-　眾生若聞生歡喜。」
+　眾生若聞生歡喜。」」
 #+END_VERSE
-」
+
 <pb:KR6i0224_T_001-0123c>¶
 
 爾時阿難作是語已，佛告慧命阿難言：「阿難！¶
